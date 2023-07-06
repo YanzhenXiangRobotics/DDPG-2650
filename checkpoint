@@ -1,2 +1,2 @@
-model_checkpoint_path: "c:/Users/xyz00/OneDrive/Desktop/coco-project\\rand_init_pos_version_2/DDPG.ckpt-2650"
-all_model_checkpoint_paths: "c:/Users/xyz00/OneDrive/Desktop/coco-project\\rand_init_pos_version_2/DDPG.ckpt-2650"
+model_checkpoint_path: "DDPG-2650/DDPG.ckpt-2650"
+all_model_checkpoint_paths: "DDPG-2650/DDPG.ckpt-2650"
